@@ -1,6 +1,6 @@
 import numpy
 import serial
 
-name = "Kamilla"
+name = "Kamilla and Misha"
 
 print(f'Hello, {name}! :)')
